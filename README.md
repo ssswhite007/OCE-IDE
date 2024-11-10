@@ -16,18 +16,7 @@ Visit https://ide.judge0.com, and enjoy happy coding. :)
 
 ## Community
 Do you have a question, feature request, or something else on your mind? Or do you want to follow Judge0 news?
+Please Contact US Anytime
+* [Contact Us](https://t.me/HavardSteffensen)
+* [Contact us](mailto:lolz57675@gmail.com)
 
-* [Subscribe to Judge0 newsletter](https://subscribe.judge0.com)
-* [Join our Discord server](https://discord.gg/GRc3v6n)
-* [Watch asciicasts](https://asciinema.org/~hermanzdosilovic)
-* [Report an issue](https://github.com/judge0/judge0/issues/new)
-* [Contact us](mailto:contact@judge0.com)
-* [Schedule an online meeting with us](https://meet.judge0.com)
-
-## Author and Contributors
-Judge0 IDE was created by [Herman Zvonimir Došilović](https://github.com/hermanzdosilovic).
-
-Thanks a lot to all [contributors](https://github.com/judge0/ide/graphs/contributors) for their contributions to this project.
-
-## License
-Judge0 IDE is licensed under the [MIT License](https://github.com/judge0/ide/blob/master/LICENSE).
